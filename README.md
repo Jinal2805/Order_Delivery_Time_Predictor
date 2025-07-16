@@ -1,5 +1,4 @@
 # Order_Delivery_Time_Predictor
-# 📦 Delivery Time Prediction with Streamlit
 
 A machine learning-powered Streamlit web application that predicts the delivery time (in days) for e-commerce orders using the Olist dataset. This project helps logistics teams and customers anticipate delivery durations more accurately. Users input the payment value, purchase day of the week, and hour of purchase through an interactive Streamlit web app, which then provides a predicted delivery duration. The model was trained using features engineered from real order data, aiming to help e-commerce platforms improve logistics planning and customer satisfaction.
 
